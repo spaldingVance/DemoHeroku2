@@ -23,7 +23,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-3 offset-md-3">
-					<a class="btn btn-primary" href="login" role="button">Login</a>
+					<a class="btn btn-primary" href="login" role="button">Log-In</a>
 				</div>
 				<div class="col-md-3">
 					<a class="btn btn-primary" href="register" role="button">Register</a>
